@@ -1,5 +1,9 @@
+@c-development
+@development-tools
 axel
 entr
 fish
 golang
+ruby
+ruby-devel
 trash-cli
