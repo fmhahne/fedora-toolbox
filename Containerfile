@@ -1,4 +1,4 @@
-FROM registry.fedoraproject.org/fedora-toolbox:36
+FROM registry.fedoraproject.org/fedora-toolbox:37
 COPY extra-packages /
 RUN dnf -y upgrade &&\
     dnf -y install $(<extra-packages) &&\
