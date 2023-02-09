@@ -6,5 +6,7 @@ android-tools
 axel
 entr
 fish
+rclone
+restic
 ruby
 ruby-devel
