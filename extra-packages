@@ -1,12 +1,10 @@
-@base-x
-@c-development
-@development-tools
 age
 axel
 entr
 fish
-htop
+just
+make
+pandoc
 pdf2djvu
 rclone
 restic
-tmux
