@@ -9,3 +9,4 @@ pdf2djvu
 rclone
 restic
 ShellCheck
+shfmt
