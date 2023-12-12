@@ -1,10 +1,11 @@
-@c-development
 age
 axel
 entr
 fish
 flatpak-xdg-utils
+gcc
 just
+make
 pandoc
 pdf2djvu
 python-unversioned-command
