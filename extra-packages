@@ -15,3 +15,4 @@ rclone
 restic
 ShellCheck
 shfmt
+zstd
