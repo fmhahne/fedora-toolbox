@@ -12,7 +12,6 @@ pdf2djvu
 pipx
 python-devel
 python-unversioned-command
-rclone
 restic
 ShellCheck
 shfmt
