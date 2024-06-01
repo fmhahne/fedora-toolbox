@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * SAT"
+    - cron: "0 0 * * MON"
 
 env:
   REGISTRY: ghcr.io
