@@ -13,4 +13,3 @@ python-unversioned-command
 restic
 ShellCheck
 shfmt
-zstd
