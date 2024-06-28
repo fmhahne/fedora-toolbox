@@ -10,6 +10,5 @@ pdf2djvu
 pipx
 python-devel
 python-unversioned-command
-restic
 ShellCheck
 shfmt
