@@ -7,7 +7,6 @@ host-spawn
 make
 pandoc
 pdf2djvu
-pipx
 python-devel
 python-unversioned-command
 ShellCheck
