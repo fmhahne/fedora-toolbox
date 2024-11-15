@@ -1,4 +1,4 @@
-FROM registry.fedoraproject.org/fedora-toolbox:41
+FROM registry.fedoraproject.org/fedora-toolbox:latest
 COPY extra-packages /
 RUN dnf -y distro-sync &&\
     dnf -y install $(<extra-packages) &&\
