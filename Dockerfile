@@ -6,6 +6,7 @@ RUN dnf -y distro-sync &&\
 RUN ln -s /usr/bin/host-spawn /usr/bin/code &&\
     ln -s /usr/bin/host-spawn /usr/bin/flatpak &&\
     ln -s /usr/bin/host-spawn /usr/bin/podman &&\
+    ln -s /usr/bin/host-spawn /usr/bin/restic &&\
     ln -s /usr/bin/host-spawn /usr/bin/rpm-ostree &&\
     ln -fs /usr/bin/host-spawn /usr/bin/xdg-open
 RUN rm /extra-packages
