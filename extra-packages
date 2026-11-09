@@ -15,7 +15,6 @@ pipx
 python-devel
 python-unversioned-command
 ShellCheck
-shfmt
 stow
 trash-cli
 zstd
